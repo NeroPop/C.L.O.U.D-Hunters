@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/0A Master.unity
+    guid: 3540cecc770def4439838fa3d11597a3
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/1A Main Menu.unity
+    guid: c90ce943a56fb8d49ae556a3b3fa4c37
+  - enabled: 0
+    path: Assets/Scenes/Active Scenes/2A Tutorial.unity
+    guid: 25e36e1ea0e96a745926014901da5da1
+  - enabled: 0
+    path: Assets/Scenes/Active Scenes/3A Subway.unity
+    guid: bc5eeec6f718ac1409115bdfd4231bf2
+  - enabled: 0
+    path: Assets/Scenes/Active Scenes/4A Square.unity
+    guid: 5ebf2cacd1335354b98be8f7ca5d890a
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/5A Streets.unity
+    guid: e906629e46e0a6e4393d1cdd88eb80ef
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/6A Silo.unity
+    guid: 7752d1b25bb4f014dae03069d79d074d
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/7A Canteen.unity
+    guid: 88c02198e9946aa41ae196dccccebb84
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/8A TrapStreet.unity
+    guid: ed209b53cbd94154ba594c39f904eae6
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/9A HighApartment.unity
+    guid: 7ae79e91e6856e9459977003ed905576
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/10A BigZipline.unity
+    guid: 4bb24abc4a80e2c4f98b88e03aee6dee
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/11A SingleRooftop.unity
+    guid: ad97ae34000aa484097e292b45bfe518
+  - enabled: 0
+    path: Assets/Scenes/Active Scenes/12A Rooftops.unity
+    guid: 409c2eebb2460954da2317b52269898b
+  - enabled: 0
+    path: Assets/Scenes/Active Scenes/13A ScientistApartment.unity
+    guid: bda7aefb5fedd2d49be1274e3cb409e7
+  - enabled: 0
+    path: Assets/Scenes/Active Scenes/14A TenseStreet.unity
+    guid: f8395ed4865dd2c4aac3f9286babcffb
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/15A Factory.unity
+    guid: 3570785c8104f6a4f8dd32ccc4d29cde
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3112674179cac7c4da6899f61217dbd3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a6a5bc0a8336c94ba5d3777a1310f04, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8dab031836c14ba4c97befdfa49cab2f, type: 2}
